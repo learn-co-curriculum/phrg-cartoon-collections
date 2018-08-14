@@ -112,5 +112,8 @@ You can assume that all strings will be lowercase. Take a look at the [`.include
 * The [`.map` method](http://ruby-doc.org/core/Array.html#method-i-map)
 * The [`.include` method](http://ruby-doc.org/core/Array.html#method-i-include-3F)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/PHRG-REPO-LINK-HERE/issues) or [pull-request](https://github.com/learn-co-curriculum/PHRG-REPO-LINK-HERE/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/cartoon-collections'>Cartoon Collections Lab</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Cartoon Collections</p>
